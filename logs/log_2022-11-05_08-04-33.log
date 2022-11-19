@@ -1,0 +1,11 @@
+
+-----
+Test: test_buy_product.py::test_buy_product_1 (call)
+Start time: 2022-11-05 08:04:35.297700
+Start name method: authorization
+
+End time: 2022-11-05 08:04:37.179152
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
